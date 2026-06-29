@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+ultralytics
+torch
+torchvision
+opencv-python
+albumentations
+streamlit
+huggingface_hub
+python-multipart
+pillow
+numpy
