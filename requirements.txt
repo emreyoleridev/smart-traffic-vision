@@ -1,16 +1,10 @@
-fastapi
-uvicorn
-pydantic
-pydantic-settings
 ultralytics
 torch
 torchvision
-opencv-python
+opencv-python-headless
 albumentations
 streamlit
 huggingface_hub
-python-multipart
 pillow
 numpy
-requests
 pandas
