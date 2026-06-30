@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pydantic
+pydantic-settings
 ultralytics
 torch
 torchvision
@@ -11,3 +12,5 @@ huggingface_hub
 python-multipart
 pillow
 numpy
+requests
+pandas
